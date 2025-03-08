@@ -1,0 +1,16 @@
+﻿Email,FullName,Role,ReportsTo
+mr.goyal@example.com,Mr. Goyal,Root,
+akash@example.com,Akash,Admin,mr.goyal@example.com
+piyush@example.com,Piyush,Manager,akash@example.com
+harsh@example.com,Harsh,Caller,piyush@example.com
+rahul@example.com,Rahul,Manager,mr.goyal@example.com
+ubaid@example.com,Ubaid,Manager,harsh@example.com
+zainab@example.com,Zainab,Caller,mr.goyal@example.com
+shivangi@example.com,Shivangi,Caller,piyush@example.com;akash@example.com
+mukul@example.com,Mukul,Admin,mr.goyal@example.com
+amrit@example.com,Amrit,Manager,mukul@example.com
+mr.agarwal@example.com,Mr. Agarwal,Caller,amrit@example.com
+mr.puniya@example.com,Mr. Puniya,Caller,mr.agarwal@example.com
+mr.taliwal@example.com,Mr. Taliwal,Manager,mr.agarwal@example.com
+miss.mirza@example.com,Miss Mirza,Admin,piyush@example.com
+miss.gautam@example.com,Miss Gautam,Caller,miss.mirza@example.com
